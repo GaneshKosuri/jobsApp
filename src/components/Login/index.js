@@ -100,7 +100,7 @@ class Login extends Component {
 
     return (
       <div className="login-form-container">
-        <p style={{color:'white'}}>Visit GitHub for more Login Creds</p>
+        <p style={{color: 'white'}}>Visit GitHub for more Login Creds</p>
         <form className="form-container" onSubmit={this.submitForm}>
           <img
             src="https://assets.ccbp.in/frontend/react-js/logo-img.png"
